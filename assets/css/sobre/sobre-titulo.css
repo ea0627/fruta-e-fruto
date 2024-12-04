@@ -1,0 +1,17 @@
+.sobre__titulo{
+    color: #DA2b1F;
+    font-family: pacifico, cursive;
+    
+}
+
+@media screen and (min-width: 0px) {
+    .sobre__titulo{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobre__titulo{
+        font-size: 3.1875rem;
+    }
+}
