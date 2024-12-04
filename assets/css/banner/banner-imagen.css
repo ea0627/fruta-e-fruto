@@ -1,7 +1,7 @@
 .banner__imagen{
     width: 100%;
     height: calc(100vh - 72px);
-    background: url('arquitectura-css-base-main/assets/img/banner.png') no-repeat center / cover;
+    background: url('/assets/img/banner.png') no-repeat center / cover;
 }
 
 @media screen and (min-width: 0) {
